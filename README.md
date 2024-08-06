@@ -4,4 +4,5 @@ Sudoku is a logic-based,combinatorial number-placement puzzle . In Sudoku, the o
 
 In this project , we have made a sudoku board using tkinter which can be solved on your own or you can click on the 'Show Solution' button to get the solution. We need to input the sudoku board row-wise.
 
-# sudoku_maker : 
+![image](https://github.com/user-attachments/assets/f708ef3a-d3c0-4a0a-822e-8041ff1271ad)
+
